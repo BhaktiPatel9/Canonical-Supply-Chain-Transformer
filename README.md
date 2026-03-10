@@ -1,4 +1,3 @@
-# Canonical Supply Chain Transformer 🏗️
 ![System Architecture](architecture_diagram.png)
 
 ### The Challenge
