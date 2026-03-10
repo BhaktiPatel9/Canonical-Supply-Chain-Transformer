@@ -1,4 +1,5 @@
 # Canonical Supply Chain Transformer 🏗️
+![System Architecture](architecture_diagram.png)
 
 ### The Challenge
 Managing multi-terabyte datasets often leads to "data swamp" conditions where manual reconciliation is constant. At **K.G.Patel & Co.**, I faced an 8-hour financial closing cycle due to unoptimized SQL.
